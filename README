@@ -1,2 +1,4 @@
 查看: hugo server -D
-生成页面: hugo -D
+生成public页面: hugo -D
+产生新的post页面：hugo new [目录]
+hugo theme kiera: https://themes.gohugo.io/hugo-kiera/

@@ -1,4 +1,13 @@
 baseURL = "http://chenyuanying.github.io/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "zh-cn"
+title = "Yuanying的博客"
 theme = "kiera"
+pygmentsCodeFences = true
+disqusShortname = "Yuanying"
+
+[author]
+name = "chenyuanying"
+github = "chenyuanying"
+
+[params]
+tagline = "温故而知新，可以为师矣"
