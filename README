@@ -2,3 +2,7 @@
 生成public页面: hugo -D
 产生新的post页面：hugo new [目录]
 hugo theme kiera: https://themes.gohugo.io/hugo-kiera/
+
+在新的机器上面clone本project需要注意以下两点:
+1. 注意clone public目录和themes目录
+2. 需要新建data layouts static目录
